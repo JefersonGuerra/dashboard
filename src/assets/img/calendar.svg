@@ -1,0 +1,10 @@
+<svg id="ic-actions-calendar" xmlns="http://www.w3.org/2000/svg" width="15.344" height="15.344" viewBox="0 0 15.344 15.344">
+  <rect id="Retângulo_29" data-name="Retângulo 29" width="15.344" height="15.344" fill="none"/>
+  <g id="Layer" transform="translate(0.639 1.279)">
+    <g id="Vrstva_98" data-name="Vrstva 98">
+      <path id="Caminho_72" data-name="Caminho 72" d="M13.147,3.279h-.639V2.639a.639.639,0,1,0-1.279,0v.639H4.836V2.639a.639.639,0,1,0-1.279,0v.639H2.918A1.918,1.918,0,0,0,1,5.2v7.672a1.918,1.918,0,0,0,1.918,1.918H13.147a1.918,1.918,0,0,0,1.918-1.918V5.2a1.918,1.918,0,0,0-1.918-1.918ZM2.279,5.2a.639.639,0,0,1,.639-.639H13.147a.639.639,0,0,1,.639.639v.639H2.279Zm11.508,7.672a.639.639,0,0,1-.639.639H2.918a.639.639,0,0,1-.639-.639V7.115H13.787Z" transform="translate(-1 -2)" fill="#6a6c6a" fill-rule="evenodd"/>
+      <rect id="Retângulo_4" data-name="Retângulo 4" width="1.918" height="1.918" rx="0.8" transform="translate(2.557 6.393)" fill="#6a6c6a"/>
+      <rect id="Retângulo_5" data-name="Retângulo 5" width="1.918" height="1.918" rx="0.8" transform="translate(5.754 6.393)" fill="#6a6c6a"/>
+    </g>
+  </g>
+</svg>

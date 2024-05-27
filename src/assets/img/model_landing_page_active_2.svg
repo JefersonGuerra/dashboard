@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="112" viewBox="0 0 182 112">
+  <g id="Grupo_805" data-name="Grupo 805" transform="translate(-712 -101)">
+    <g id="Componente_29_5" data-name="Componente 29 – 5" transform="translate(712 101)">
+      <g id="Grupo_25" data-name="Grupo 25">
+        <g id="Retângulo_4" data-name="Retângulo 4" fill="#c5c5c5" stroke="#c5c5c5" stroke-width="1">
+          <rect width="182" height="112" rx="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="181" height="111" rx="5.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Grupo_26" data-name="Grupo 26" transform="translate(9.976 37.053)">
+        <g id="Grupo_21" data-name="Grupo 21">
+          <g id="Retângulo_4-2" data-name="Retângulo 4" transform="translate(0.024 -0.054)" fill="#fff" stroke="#6a6c6a" stroke-width="1">
+            <rect width="37" height="56" stroke="none"/>
+            <rect x="0.5" y="0.5" width="36" height="55" fill="none"/>
+          </g>
+        </g>
+        <line id="Linha_1" data-name="Linha 1" x1="36.442" y2="54.609" transform="translate(0.356 0.356)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Linha_2" data-name="Linha 2" x2="36.442" y2="54.609" transform="translate(0.356 0.356)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Grupo_604" data-name="Grupo 604" transform="translate(54.155 37.053)">
+        <g id="Grupo_21-2" data-name="Grupo 21">
+          <g id="Retângulo_4-3" data-name="Retângulo 4" transform="translate(-0.155 -0.054)" fill="#fff" stroke="#6a6c6a" stroke-width="1">
+            <rect width="37" height="56" stroke="none"/>
+            <rect x="0.5" y="0.5" width="36" height="55" fill="none"/>
+          </g>
+        </g>
+        <line id="Linha_1-2" data-name="Linha 1" x1="36.442" y2="54.609" transform="translate(0.356 0.356)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Linha_2-2" data-name="Linha 2" x2="36.442" y2="54.609" transform="translate(0.356 0.356)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g id="Grupo_29" data-name="Grupo 29" transform="translate(102.61 22.09)">
+        <g id="Retângulo_26" data-name="Retângulo 26" transform="translate(0.391 14.91)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="70" height="8" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="69" height="7" rx="3.5" fill="none"/>
+        </g>
+        <g id="Retângulo_426" data-name="Retângulo 426" transform="translate(0.391 -0.09)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="70" height="8" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="69" height="7" rx="3.5" fill="none"/>
+        </g>
+        <g id="Retângulo_29" data-name="Retângulo 29" transform="translate(0.391 45.91)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="70" height="8" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="69" height="7" rx="3.5" fill="none"/>
+        </g>
+        <g id="Retângulo_30" data-name="Retângulo 30" transform="translate(0.391 62.91)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="70" height="8" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="69" height="7" rx="3.5" fill="none"/>
+        </g>
+        <g id="Retângulo_27" data-name="Retângulo 27" transform="translate(0.391 30.91)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="33" height="8" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="32" height="7" rx="3.5" fill="none"/>
+        </g>
+        <g id="Retângulo_28" data-name="Retângulo 28" transform="translate(37.391 30.91)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="33" height="8" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="32" height="7" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_609" data-name="Grupo 609" transform="translate(722.36 124.262)">
+      <line id="Linha_58" data-name="Linha 58" x2="80.983" transform="translate(0 0)" fill="none" stroke="#707070" stroke-width="2"/>
+      <path id="Caminho_228" data-name="Caminho 228" d="M27.341,0H75.979" transform="translate(-27.341 5.731)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

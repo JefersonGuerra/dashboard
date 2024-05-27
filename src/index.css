@@ -1,0 +1,191 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('../src/assets/css/fonts.css');
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #E0E0E0;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #6A6C6A;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #5A5C5A;
+}
+
+.container-1360 {
+    width: 100%;
+    max-width: 1360px;
+    margin: 0 auto;
+}
+
+@media(max-width: 1360px) {
+    .container-1360 {
+        width: 100%;
+    }
+}
+
+.show_warning {
+    right: 0;
+    transition-duration: 800ms;
+}
+
+.hide_warning {
+    right: -100%;
+    transition-duration: 800ms;
+}
+
+.model-item input:checked~.model-item-normal {
+    display: none;
+}
+
+.model-item input:checked~.model-item-active {
+    display: block;
+}
+
+.model-item input:hover~.model-item-normal {
+    display: none;
+}
+
+.model-item input:hover~.model-item-active {
+    display: block;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+
+.btn-radio-bg-text:checked~.bg-button-radio {
+    background: #6A6C6A;
+}
+
+.btn-radio-bg-text:checked~.bg-button-radio p {
+    color: #ffffff;
+}
+
+/*swipper*/
+.swiper-landingpage .swiper-button-prev {
+    color: #707070 !important;
+    top: calc(50% - 28px);
+}
+
+.swiper-landingpage .swiper-button-next {
+    color: #707070 !important;
+    top: calc(50% - 28px);
+}
+
+@media(max-width: 1280px){
+    .swiper-pagination{display: none;}
+}
+
+/**/
+
+/* Loading */
+.lds-ring {
+    display: inline-block;
+    position: relative;
+}
+
+.lds-ring div {
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+}
+
+.lds-ring div:nth-child(1) {
+    animation-delay: -0.45s;
+}
+
+.lds-ring div:nth-child(2) {
+    animation-delay: -0.3s;
+}
+
+.lds-ring div:nth-child(3) {
+    animation-delay: -0.15s;
+}
+
+@keyframes lds-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/**/
+
+/* Pagination */
+.previous {
+    display: none;
+}
+
+.next {
+    display: none;
+}
+
+.paginate-library {
+    float: left;
+}
+
+.paginate-library li {
+    float: left;
+    padding: 5px 0;
+    border-radius: 4px;
+    font: 14px montserratsemibold;
+    color: #6A6C6A;
+}
+
+.paginate-library li a {
+    padding: 5px 7px;
+}
+
+.paginate-library .selected {
+    float: left;
+    background: #6A6C6A;
+    padding: 5px 0;
+    border-radius: 4px;
+    font: 14px montserratsemibold;
+    color: #ffffff;
+}
+
+/**/
+
+/*calendar*/
+
+.rdrMonth {
+    width: 32.667em !important;
+}
+
+.rdrMonthPicker select {
+    min-width: 110px;
+}
+
+.rdrYearPicker select {
+    min-width: 110px;
+}
+
+/**/
+
+
+.hovSelectImage:hover .editPencilImage{display: flex;}
